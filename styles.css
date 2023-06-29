@@ -135,6 +135,7 @@ body{
     .container{
         display: block;
         background-image: none;
+        height: 60vh;
     }
     .container__imagem{
         width: 50vw;
